@@ -10,6 +10,8 @@
  - [C++ list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) 
  - [Habr road C++](https://habr.com/ru/post/504096/)
 
+- [RU EN books (pdf)](https://github.com/aqude/amateur-roadmap-computerscience/tree/master/books/C%2B%2B)
+
 # Assembly 
 
  - 📘 1. Assembly Programming and Computer Architecture
