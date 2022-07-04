@@ -4,7 +4,7 @@
  - 📕 2. Code: The Hidden Language of Computer Hardware and Software
  - 📔 3. Теоретический минимум по Computer Science
  - 📙 4. Computer Science An Overview
- - 🎥 +5. [Архитектура ЭВМ (Курс)](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
+ - 🎥 5. [Архитектура ЭВМ (Курс)](https://www.youtube.com/playlist?list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
 
 # C++
 
