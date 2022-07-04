@@ -3,12 +3,12 @@
  - 📘 1. Inside the Machine
  - 📕 2. Code: The Hidden Language of Computer Hardware and Software
  - 📔 3. Теоретический минимум по Computer Science
- - 📙 Computer Science An Overview
+ - 📙 4. Computer Science An Overview
 
 # C++
 
- [C++ list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
- [Habr road C++](https://habr.com/ru/post/504096/)
+ - [C++ list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) 
+ - [Habr road C++](https://habr.com/ru/post/504096/)
 
 # Assembly 
 
